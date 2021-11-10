@@ -1,0 +1,90 @@
+body {
+    /* Old browsers */
+    background: #141E30;
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: -webkit-linear-gradient(-45deg, #35577D, #141E30);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: linear-gradient(-45deg, #35577D, #141E30);
+    margin: 0;
+    padding: 0;
+  }
+
+* {
+    font-family: monospace;
+}
+
+h1, h2 {
+    color: white;
+    text-align: justify;
+    font-weight: 700;
+    font-size: xx-large;
+}
+
+p, li {
+    color: white;
+    font-style: italic;
+    text-align: justify;
+    font-weight: 700;
+    font-size: x-large;
+}
+
+div {
+    border: solid 3px white;
+    border-radius: 5px;
+    padding: 30px;
+    margin: 30px;
+    background: -webkit-linear-gradient(-45deg, #203a58, #141E30);
+}
+
+
+#socialni-mreji {
+    padding: 30px;
+}
+
+#menu {
+    border: solid 3px white;
+    border-radius: 5px;
+    margin: 30px;
+    text-align: justify;
+    display: flex;
+}
+
+#navbar {
+    margin: 30px 30px;
+    text-align: center;
+    color:rgb(241, 75, 75);
+}
+
+#logo a{
+    margin: 0px;
+}
+
+#snimki-partners-right {
+    float: right;
+    width: 20%;
+    margin: 15px;
+    border: solid 3px rgb(241, 75, 75);
+    border-radius: 5px;
+}
+
+#snimki-partners-left {
+    float: left;
+    width: 20%;
+    margin: 25px;
+    border: solid 3px rgb(241, 75, 75);
+    border-radius: 5px;
+}
+
+#color-red {
+    color:rgb(241, 75, 75);
+}
+
+#rick-roll {
+    text-align: center;
+    color:rgb(241, 75, 75);
+    margin: 30px 10px 30px 1150px;
+}
+
+#prava {
+    text-align: center;
+}
